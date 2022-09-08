@@ -11,7 +11,7 @@ permalink: /about/
 
 ## This Page is currently being developed - it will be updated shortly
 
-> We are obsessed with data driving business value - stay tuned for updates
+<!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
 <!-- 
 
