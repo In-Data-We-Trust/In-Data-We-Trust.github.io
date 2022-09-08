@@ -1,11 +1,19 @@
 ---
 layout: page
 title: About
-description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
+description: Hey! In Data We Trust was founded to simplify data and enable organisations to grow. We love working with data because we've seen first hand how it can transform organisations. 
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+#image: '/images/01-2.jpg'
+#image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
+
+<!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
+
+## This Page is currently being developed - it will be updated shortly
+
+> We are obsessed with data driving business value - stay tuned for updates
+
+<!-- 
 
 Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -44,6 +52,6 @@ Globally incubate standards compliant channels before scalable benefits. Quickly
 
 Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes. -->
 
 ***
