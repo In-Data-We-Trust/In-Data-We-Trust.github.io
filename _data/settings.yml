@@ -1,0 +1,115 @@
+#-------------------------------
+# Site Settings
+title: Dann
+logo: # You can add own logo. For example "/images/logo.png".
+description: Multipurpose Jekyll Blog Theme
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Dann Kanigan
+  author__bio: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
+  author__avatar: /images/01-1.jpg
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Pages'
+      submenu:
+      - url: '/authors/'
+        title: 'Authors'
+      - url: '/elements/'
+        title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
+
+
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: Blog & Resources
+  blog__description: Find out how to set up a successful blog or how to make yours even better!
+
+
+#-------------------------------
+# Recommended Tag Settings
+tag:
+  enable: true
+  tag__title: Recommended
+  tag__name: Motivation
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: true
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/images/110.jpg"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+    - title: 'Authors'
+      url: '/authors/'
+    - title: 'Elements'
+      url: '/elements/'
+
+
+# Social Links
+social:
+- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://twitter.com"}
+- {icon: "ion-logo-facebook", color: "#3b5999", name: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-pinterest", color: "#bd081c", name: Pinterest, link: "https://pinterest.com"}
+- {icon: "ion-logo-dribbble", color: "#ea4c89", name: Dribbble, link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://instagram.com"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contant form
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: true
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
