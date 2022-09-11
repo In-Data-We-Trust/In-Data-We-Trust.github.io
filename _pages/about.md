@@ -9,6 +9,8 @@ permalink: /about/
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
 
+Please contact me on LinkedIn if you want to get in touch! - https://www.linkedin.com/in/pratikpatel89/
+
 ## This Page is currently being developed - it will be updated shortly
 
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->

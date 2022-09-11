@@ -5,6 +5,3 @@ image: '/images/115.JPG'
 ---
 
 Founder of In Data We Trust and a huge Data enthusiast. Strives for simplicity over complexity and believes in building platforms in a way that enable analysts and scientist to engineer data.
-
-Please contact me on LinkedIn if you want to get in touch! - https://www.linkedin.com/in/pratikpatel89/
-
