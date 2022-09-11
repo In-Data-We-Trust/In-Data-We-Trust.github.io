@@ -27,8 +27,8 @@ menu__settings:
         title: 'Authors'
       - url: '/elements/'
         title: 'Elements'
-    - title: 'Contact'
-      url: '/contact/'
+    # - title: 'Contact'
+      # url: '/contact/'
 
 
 #-------------------------------
