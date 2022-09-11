@@ -47,7 +47,7 @@ blog:
 #-------------------------------
 # Recommended Tag Settings
 tag:
-  enable: true
+  enable: false
   tag__title: Recommended
   tag__name: Motivation
 
