@@ -4,4 +4,4 @@ name: Pratik Patel
 image: '/images/115.JPG'
 ---
 
-Founder of In Data We Trust and a huge Data enthusiast. Strives for simplicity over complexity and believes in building platforms in a way that enable analysts and scientist to engineer data.
+Founder of In Data We Trust and a huge Data enthusiast. Strives for simplicity over complexity to build platforms that provide fast and sustainable analytics.

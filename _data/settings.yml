@@ -9,8 +9,8 @@ description: Multipurpose Jekyll Blog Theme
 # Author Global Settings
 author:
   author__name: Pratik Patel
-  author__bio: Founder of In Data We Trust and a huge Data enthusiast. Strives for simplicity over complexity and believes in building platforms in a way that enable analysts and scientist to engineer data.
-  author__avatar: /images/01-1.jpg
+  author__bio: Founder of In Data We Trust and a huge Data enthusiast. Strives for simplicity over complexity to build platforms that provide fast and sustainable analytics.
+  author__avatar: '/images/115.JPG'
 
 
 #-------------------------------
