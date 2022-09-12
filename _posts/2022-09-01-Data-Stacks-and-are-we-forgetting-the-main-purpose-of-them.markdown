@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First IDWT Post
+title: Data Stacks and are we forgetting the main purpose of them?
 description: Why do you need a Data Stack or solution?
 date: 2022-09-01 15:01:35 +0000
 author: pratik
@@ -13,7 +13,7 @@ Having worked in a range of companies I want to share my findings, learnings and
 
 ***To answer your questions which then drive decisions to generate Business Value!***
 
-# How can I help you on your data journey?
+## How can I help you on your data journey?
 
 I started my career as a Management Consultant and then moved to become a hands-on data driven individual where I have experience of working across the full spectrum of Data. From engineering pipelines, designing and modelling data warehouses and building organisational wide analytics
 
@@ -30,7 +30,7 @@ Trust me, you do not want your huge cost to be used to provide resources a great
 
 I have seen solutions built multiple times with exceedingly complexity that just weren't needed in relation to an organisations size. When this happens, design overkill has occurred and the original purpose was long forgotten.
 
-# Do you have architectural overkill in your data stack that is killing time to generate value?
+## Do you have architectural overkill in your data stack that is killing time to generate value?
 
 This is a difficult and challenging item to identify when reviewing documentation and ways of working. However in my career I have seen some tell-tale signs that point to the data solution being not focused on ***Business Value*** and being academic:
 
@@ -40,7 +40,7 @@ This is a difficult and challenging item to identify when reviewing documentatio
 
 ***If any of the above sound like issues your company is facing, read the rest of this article could transform your company and how it uses data!***
 
-# Types of Solutions and which one is needed?
+## Types of Solutions and which one is needed?
 
 Over my career I have seen two types of data solutions…
 
@@ -64,7 +64,7 @@ This is the most simple and elegant solutions that consist of 3 simple items:
 * Technologies Required: SQL, Python and how to use a cloud orchestration tool
 * Cost - Affordable and easy to run 
 
-# What do I need my data solution to do?
+## What do I need my data solution to do?
 
 When deciding what solution is needed, we need to remind ourselves of generating business value first and foremost. The solution should fit the current size and volumes of the company.
 
@@ -72,7 +72,7 @@ When deciding what solution is needed, we need to remind ourselves of generating
 
 There are many industry terminologies for data and how it can be used with as many tools available. The list is endless and using the wrong one can cause huge challenges as your organisation depends more and more on the data stack. The art is stitching them together in a way that works reliably, is simple to engineer new data and has minimal cloud and people cost to operate. This harmony is when you are receiving value from your data
 
-# How on Earth do I then get a data solution to work as intended?
+## How on Earth do I then get a data solution to work as intended?
 
 There is a lot of information to unpick to enable an organisation to pick and choose a data solution that works for them. Along with healthy challenge on the journey towards building a data driven culture.
 
