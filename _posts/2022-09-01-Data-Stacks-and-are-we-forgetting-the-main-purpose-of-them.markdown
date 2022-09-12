@@ -44,7 +44,7 @@ This is a difficult and challenging item to identify when reviewing documentatio
 
 Over my career I have seen two types of data solutions…
 
-***Solution 1 - Built for scale where scale is needed***
+### Solution 1 - Built for scale where scale is needed
 
 Data Stack that is built to scale to be able to meet the demands of any volumes. It uses the best in class technologies with the latest tools
 
@@ -52,7 +52,7 @@ Data Stack that is built to scale to be able to meet the demands of any volumes.
 * Technologies used - A lot of them! Resources are needed that are unicorns, experienced and not cost effective
 * Cost - Astronomical to build and not sustainable for small and medium businesses from both a resource and cloud cost perspective
 
-***Solution 2 - Built for organisations that need speed of insights***
+### Solution 2 - Built for organisations that need speed of insights***
 
 This is the most simple and elegant solutions that consist of 3 simple items:
 
@@ -68,7 +68,7 @@ This is the most simple and elegant solutions that consist of 3 simple items:
 
 When deciding what solution is needed, we need to remind ourselves of generating business value first and foremost. The solution should fit the current size and volumes of the company.
 
-***I have seen solution 1 used far too many times when it was not the right decision for the company.***
+> I have seen solution 1 used far too many times when it was not the right decision for the company.
 
 There are many industry terminologies for data and how it can be used with as many tools available. The list is endless and using the wrong one can cause huge challenges as your organisation depends more and more on the data stack. The art is stitching them together in a way that works reliably, is simple to engineer new data and has minimal cloud and people cost to operate. This harmony is when you are receiving value from your data
 
