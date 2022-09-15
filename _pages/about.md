@@ -9,7 +9,7 @@ permalink: /about/
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
 
-# Why we were Founded?
+## Why we were Founded?
 
 To help organisations ***trust*** their data, become data driven and use this to grow :rocket:
 
@@ -34,29 +34,29 @@ Building data solutions for a company with trillions of rows of data is complica
 
 ***
 
-## How can we help you?
+## How Can We Help You?
 
 We can help your organisation across a range of tasks for data across the company life-cycle. 
 
-With our recomended data stacks, they will let any curious Analyst or Scientist learn the Engineering side of Data. This can begin to unlock some very powerful processes for your organisations! They can discover a new data source, table or API and make the data available to themselves. Provide an answer and give feedback. 
+With our recommended data stacks, they will let any curious Analyst or Scientist learn the Engineering side of Data. This can begin to unlock some powerful analytics for your organisations! They can discover a new data source, table or API and make the data available to themselves. Provide an answer and give feedback. 
 
-### Start up or young Company with no data-stack
+### Start Up or Young Company with No Data-Stack
 
-We have both an AWS stack and an Azure stack that we have used first-hand and can recomend. This will be a simple stack that is infinitely better than a complicated solution at this stage of the company. 
+We have both an AWS stack and an Azure stack that we have used first-hand and can recommend. This will be a simple stack that is infinitely better than a complicated solution at this stage of the company. 
 
-### We Already have a data-stack and are having data challenges
+### We Already Have a Data-Stack and Are Having Data Challenges
 
 We can meet with you, conduct a review of the data-stack and technologies used and provide feedback. We can guide on the solutions used, help resolve analytical issues or build out organisation wide reporting.
 
-## What have we Learnt?
+## What Have We Learnt?
 
 With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there is a lot of information to share! 
 
-The above is a very high level summary of our leessons Learned. We are comitted to posting our findings in more detail on our blog page. Please read them to learn more from us
+The above is a very high level summary of our lessons Learned. We are committed to posting our findings in more detail on our blog page. Please read them to learn more from us
 
 ***
 
-## Want to enquire to use our services?
+## Want To Enquire To Use Our Services?
 
 Email Pratik@indatawetrust.co.uk and we can discuss how we can help solve your data problems!
 
