@@ -13,11 +13,11 @@ permalink: /about/
 
 To help organisations ***trust*** their data, become data driven and use this to grow :rocket:
 
-## What do we believe in? 
-
-Data stacks and solutions can easily become ***complicated*** and time consuming to build new pipelines. We believe in doing the exact opposite. 
+Data stacks and solutions can easily become ***complicated*** and time consuming to build new data feeds. We believe in doing the exact opposite. 
 
 > Simplicity beats complexity.
+
+## What do we believe in? 
 
 Data can only help an organisation when the time from raising a curious question to obtaining a defined answer is as ***quick*** and ***reliable*** as possible. This requires a data stack where the Data Engineering, Data Analytics and Science are done as quickly as possible. Critically where each sub area of data can easily understand the other's. 
 
@@ -30,7 +30,7 @@ Being able to do this quickly, will mean your data solution can't process trilli
 Building data solutions for a company with trillions of rows of data is complicated and needs a range of technologies. These cost a lot of money to build and maintain. It doesn't let you quickly Engineer and Analyse. When a company has small data volumes, the speed at which it an Engineer and Analyse it much more important. With speed you can begin to experiment and understand your product in more detail leading to better rewards. This approach needs data to fuel it!
 
 ![DataGrowth]({{site.baseurl}}/Experimentation_and_data_impact.jpg){:loading="lazy"}
-<!-- *Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)* -->
+*Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)*
 
 ***
 
