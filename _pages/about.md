@@ -9,7 +9,56 @@ permalink: /about/
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
 
-## This Page is currently being developed - it will be updated shortly
+# Why we were Founded?
+
+To help organisations ***trust*** their data, become data driven and use this to grow :rocket:
+
+## What do we believe in? 
+
+Data stacks and solutions can easily become ***complicated*** and time consuming to build new pipelines. We believe in doing the exact opposite. 
+
+> Simplicity beats complexity.
+
+Data can only help an organisation when the time from raising a curious question to obtaining a defined answer is as ***quick*** and ***reliable*** as possible. This requires a data stack where the Data Engineering, Data Analytics and Science are done as quickly as possible. Critically where each sub area of data can easily understand the other's. 
+
+As a result, having the ability to quickly engineer, model and transform data will lead to becoming data driven. Where any of these areas becomes a bottleneck, your organisation will ***not*** be data driven and will not learn at the speed it needs to.
+
+Being able to do this quickly, will mean your data solution can't process trillions of rows. Which leads us onto our next catchphrase:
+
+> Build the data solution you need ***today***, not the one you need in 5 years time. 
+
+Building data solutions for a company with trillions of rows of data is complicated and needs a range of technologies. These cost a lot of money to build and maintain. It doesn't let you quickly Engineer and Analyse. When a company has small data volumes, the speed at which it an Engineer and Analyse it much more important. With speed you can begin to experiment and understand your product in more detail leading to better rewards. This approach needs data to fuel it!
+
+![DataGrowth]({{site.baseurl}}/Experimentation_and_data_impact.jpg){:loading="lazy"}
+<!-- *Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)* -->
+
+***
+
+## How can we help you?
+
+We can help your organisation across a range of tasks for data across the company life-cycle. 
+
+With our recomended data stacks, they will let any curious Analyst or Scientist learn the Engineering side of Data. This can begin to unlock some very powerful processes for your organisations! They can discover a new data source, table or API and make the data available to themselves. Provide an answer and give feedback. 
+
+### Start up or young Company with no data-stack
+
+We have both an AWS stack and an Azure stack that we have used first-hand and can recomend. This will be a simple stack that is infinitely better than a complicated solution at this stage of the company. 
+
+### We Already have a data-stack and are having data challenges
+
+We can meet with you, conduct a review of the data-stack and technologies used and provide feedback. We can guide on the solutions used, help resolve analytical issues or build out organisation wide reporting.
+
+## What have we Learnt?
+
+With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there is a lot of information to share! 
+
+The above is a very high level summary of our leessons Learned. We are comitted to posting our findings in more detail on our blog page. Please read them to learn more from us
+
+***
+
+## Want to enquire to use our services?
+
+Email Pratik@indatawetrust.co.uk and we can discuss how we can help solve your data problems!
 
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
