@@ -10,7 +10,7 @@ permalink: /about/
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
 
 ***
-## Why Were We Founded?
+## Our Mission
 
 To help organisations ***trust*** their data, become data driven and use this to grow 🚀
 
@@ -47,17 +47,13 @@ With our recommended data stacks, they will let any curious Analyst or Scientist
 
 We can meet with you, conduct a review of the data-stack and technologies used and provide feedback. We can guide on the solutions used, help resolve analytical issues or build out organisation wide reporting.
 
-## What Have We Learnt?
-
-With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there is a lot of information to share! 
-
-The above is a summary of some our lessons learned and we are committed to posting our findings in more detail on our blog page.
-
 ***
 
 ## Contact Us To See How We Can Help You?
 
-Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> and we can discuss how we can help solve your data problems!
+With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there are a lot of different ways we can help.
+
+Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to discuss how we can help solve any data challenges you may have!
 
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
