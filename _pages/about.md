@@ -57,7 +57,7 @@ The above is a summary of some our lessons learned and we are committed to posti
 
 ## Contact Us To See How We Can Help You?
 
-Email Pratik@indatawetrust.co.uk and we can discuss how we can help solve your data problems!
+Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> and we can discuss how we can help solve your data problems!
 
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
