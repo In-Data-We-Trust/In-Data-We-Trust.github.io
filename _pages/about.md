@@ -51,9 +51,9 @@ We can meet with you, conduct a review of the data-stack and technologies used a
 
 ## Contact Us To See How We Can Help You?
 
-With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there is a lot of different ways we can help! 
+With over 10 years of working across the data space in numerous roles (Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic adviser) there are a lot of different ways we can help.
 
-Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to discuss how we can help solve your data problems!
+Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to discuss how we can help solve any data challenges you may have!
 
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
