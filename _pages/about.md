@@ -3,8 +3,8 @@ layout: page
 title: About
 description: Hey! In Data We Trust uses simple data solutions to enable organisations to grow. We love working with data because we've seen first hand how it can transform organisations. 
 permalink: /about/
-#image: '/images/01-2.jpg'
-#image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+image: '/images/graphs_top_line.png'
+image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
@@ -18,9 +18,11 @@ Data stacks and solutions can easily become ***complicated*** and time consuming
 
 > Simplicity beats complexity.
 
+![Simple]({{site.baseurl}}/images/A_B.jpg){:loading="lazy"}
+
 ## How to Make Your Data Stack Help You?
 
-Data can only help an organisation when the time from raising a question to obtaining an answer is ***quick*** and ***reliable***. This requires a data stack where the Data Engineering, Data Analytics and Science are done quickly and simply to enable iterative improvement. This will encourage each sub area of you Data Team to understand the other's, which will improve overall efficiency to find an answer.
+Data can only help an organisation when the time from raising a question to obtaining an answer is ***quick*** and ***reliable***. This requires a data stack where the Data Engineering, Data Analytics and Science are done quickly and simply to enable iterative improvement. This will encourage each sub area of your Data Team to understand the other's, which will improve overall efficiency to find an answer.
 
 Being able to do this quickly, will mean your data solution can't process trillions of rows. Which leads us onto our next catchphrase:
 
