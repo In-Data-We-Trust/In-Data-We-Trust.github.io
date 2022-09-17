@@ -9,8 +9,6 @@ permalink: /about/
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
 
-![Simple]({{site.baseurl}}/images/graphs.png){:loading="lazy"}
-
 ![Simple]({{site.baseurl}}/images/graphs_top_line.png){:loading="lazy"}
 
 
