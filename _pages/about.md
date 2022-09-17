@@ -17,7 +17,7 @@ permalink: /about/
 
 To help organisations ***trust*** their data, become data driven and use this to grow 🚀
 
-Data stacks and solutions can easily become ***complicated*** and time consuming to build new data feeds. We guard against this pitfall by have a principle of doing the exact opposite. 
+Data stacks and solutions can easily become ***complicated*** and time consuming to build new data feeds. We guard against this pitfall by having a principle of doing the exact opposite. 
 
 > Simplicity beats complexity.
 
