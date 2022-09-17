@@ -4,7 +4,7 @@ title: About
 description: Hey! In Data We Trust uses simple data solutions to enable organisations to grow. We love working with data because we've seen first hand how it can transform organisations. 
 permalink: /about/
 image: '/images/graphs_top_line.png'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+# image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
 
 <!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
