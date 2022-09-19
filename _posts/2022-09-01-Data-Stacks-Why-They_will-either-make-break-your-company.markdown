@@ -31,13 +31,13 @@ From my experience of working as a full stack data individual, I have learnt one
 
 I want to provide companies a framework to use when thinking of the *why* or *so what* for any development or platform building data related. -->
 
-An effective data solution ***must*** provide information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer it takes to provide an answer to any question tha'ts raised. Simplicity reduces the time to conclude end-to-end analytics and is key for a data solution to provide ***Business Value***. 
+An effective data solution ***must*** provide information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer it takes to provide an answer to any question that's raised. Simplicity reduces the time to conclude end-to-end analytics and is key for a data solution to provide ***Business Value***. 
 
 > You do not need a complicated solution when your companies database can operate on a desktop computer! 
 
 <!-- Trust me, you do not want your huge cost to be used to provide resources a great learning opportunity and not much value to your organisation! -->
 
-I have seen various organisations build complicated solutions. This was not needed when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
+I have seen various organisations build complicated solutions. Which at the time were not needed when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
 
 ## What Solution Should You Use?
 
@@ -51,7 +51,7 @@ Data Stack that is built to scale to be able to meet the demands of large volume
 * **Technologies Used** - A lot of them! Resources are needed that are unicorns, experienced and expensive. You will need an experienced Full Stack Engineer who has experience working in Data. 
 * **Cost** - Astronomical to build and not sustainable for small and medium businesses to run from both a resource and cloud cost perspective
 
-### Solution 2 - Built for for speed of insights with lower volumes of data
+### Solution 2 - Built for for speed of Analytics with lower volumes of data
 
 This is the most simple and elegant solutions that consist of 3 simple items:
 
@@ -60,12 +60,12 @@ This is the most simple and elegant solutions that consist of 3 simple items:
 3. Data Reporting and Access Solution
 
 * **Who needs this?** - Majority of small and medium sized companies. Where time to an answer can make a huge impact on the companies growth. This is the optimum solution for any company where their data can exist on a desktop machine
-* **Technologies Used** - SQL, Python and a cloud orchestration tool. Experience is commonly found with many Data Analysts or Data Engineers. 
+* **Technologies Used** - SQL, Python and a cloud orchestration tool. Experience of these tools is commonly found with many Data Analysts or Data Engineers. 
 * **Cost** - Affordable and easy to run
 
 ## Which Solution do I need?
 
-When deciding the solution that is needed, you need one that matches the ***current*** size and volumes of your business. It is not a good idea to go for Solution 1, prior to using Solution 2, to understand how data can fuel your organisations decision making.
+When deciding the solution that is needed, you need one that matches the ***current*** size and volumes of your business. It is not a good idea to go for Solution 1, prior to using Solution 2. Solution 2 will let you understand and see first hand how data can fuel your organisations decision making.
 
 > I have seen solution 1 used  many times at a startup which has caused challenges in using data to drive decision making.
 
@@ -76,4 +76,4 @@ If your business strategy isn't dependent on real-time data to make business dec
 
 Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to discuss your organisations data requirements and how we can help you on your data journey!
 
-In my next blog posts, I will be walking through an my recommended data stacks for Azure and AWS. Stay tuned....
+In my next blog posts, I will be walking through my recommended data stacks for Azure and AWS. Stay tuned....
