@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data Stacks and are we forgetting the main purpose of them?
-description: Why do you need a Data Stack or solution?
+title: Data Stacks - Why They Will Either Make or Break Your Company
+description: 
 date: 2022-09-01 15:01:35 +0000
 author: pratik
 image: '/images/02.jpg'
@@ -9,19 +9,28 @@ image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Un
 tags: [data stacks, simple]
 ---
 
-Having worked in a range of companies I want to share my findings, learnings and opinions about data stacks, with the hope that organisations can frame their discussions on focusing on why they are needed?
-
-***To answer your questions which then drive decisions to generate Business Value!***
+Having worked in a range of companies from 20-person startups to large enterprises,  I want to share my findings about data sacks. Having used a range of them, they will either make your company flourish or make your company fail.
 
 ## How can I help you on your data journey?
 
-I started my career as a Management Consultant and then moved to become a hands-on data driven individual where I have experience of working across the full spectrum of Data. From engineering pipelines, designing and modelling data warehouses and building organisational wide analytics
+I have worked with data stacks that fuel organisations growth :rocket: and others that grind it to a halt :what emoji to use?
+
+There are some tell-tale signs that the current setup of tools or teams isn't working for your organisation. If any of the below sounds familiar, then you could have a stack that isn't helping you:
+
+* The time to engineer data from a simple source is long and complicated
+* Data is engineered, the task is marked as complete and people do not have access to the data
+* There are continuous issues with the stability of the data stack, errors, failed pipelines that are not resolved
+
+If any of the above sound familiar within your organisation, read on as I begin to break this down further.
+<!-- not sure on above. Let's tweak it as we go on. -->
+
+<!-- I started my career as a Management Consultant and then moved to become a hands-on data driven individual where I have experience of working across the full spectrum of Data. From engineering pipelines, designing and modelling data warehouses and building organisational wide analytics
 
 From my experience of working as a full stack data individual, I have learnt one key lesson. **Business Value should remain the *why* of any decision** when designing or building any data solution.
 
-I want to provide companies a framework to use when thinking of the *why* or *so what* for any development or platform building data related.
+I want to provide companies a framework to use when thinking of the *why* or *so what* for any development or platform building data related. -->
 
-At it's core an effective data solution provides information into the hands of people **quickly** to make decisions. The more complicated the data stack, the longer the time is to generate this value. Hence, simplicity is key for data solutions which I will breakdown over a series of posts.
+At it's core an effective data solution provides information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer the time is to generate this value. Hence, simplicity is key for data solutions to provide real ***Business Value***.
 
 
 > Why do you need an over complicated solution when the companies database can operate on a desktop computer? Do not let your organisations data solution be a learning ground for resources to learn the newest and trendiest technologies!!
