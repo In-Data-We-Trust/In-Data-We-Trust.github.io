@@ -53,7 +53,7 @@ Data Stack that is built to scale to meet the demands of large data volumes with
 
 ### Solution 2 - Built for for speed of Analytics with lower volumes of data
 
-This is a simple and elegant solution that consists of 3 simple items:
+This is a simple and elegant solution that consists of 3 items:
 
 1. Cloud-based data pipeline orchestration tool
 2. Data Storage solution
