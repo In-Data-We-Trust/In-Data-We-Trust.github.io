@@ -37,7 +37,7 @@ An effective data solution ***must*** provide information into the hands of peop
 
 <!-- Trust me, you do not want your huge cost to be used to provide resources a great learning opportunity and not much value to your organisation! -->
 
-I have seen various organisations build complicated solutions. Which at the time were not needed when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
+I have seen various organisations build complicated solutions. Which at the time were not required when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
 
 ## What Solution Should You Use?
 
@@ -45,7 +45,7 @@ Over my career I have seen two types of data solutions.
 
 ### Solution 1 - Built for Large Volumes of Real-Time Data Processing 
 
-Data Stack that is built to scale to be able to meet the demands of large volumes with real-time data availability. It uses the best in class technologies with the latest tools.
+Data Stack that is built to scale to meet the demands of large data volumes with real-time data availability. It uses the best in class technologies with the latest tools.
 
 * **Who needs this?** - Companies that need real-time data at their fingertips for their customers. Think of Uber, Amazon, Airbnb etc (**i.e. very few**). Data for these organisations ***can not*** be run and processed on a desktop machine
 * **Technologies Used** - A lot of them! Resources are needed that are unicorns, experienced and expensive. You will need an experienced Full Stack Engineer who has experience working in Data. 
@@ -53,7 +53,7 @@ Data Stack that is built to scale to be able to meet the demands of large volume
 
 ### Solution 2 - Built for for speed of Analytics with lower volumes of data
 
-This is the most simple and elegant solutions that consist of 3 simple items:
+This is a simple and elegant solution that consists of 3 simple items:
 
 1. Cloud-based data pipeline orchestration tool
 2. Data Storage solution
