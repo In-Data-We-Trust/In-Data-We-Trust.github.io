@@ -6,7 +6,7 @@ date: 2022-09-01 15:01:35 +0000
 author: pratik
 image: '/images/02.jpg'
 image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
-tags: [data stacks, simple]
+tags: [Data Stacks]
 ---
 
 Having worked in a range of companies from 20-person startups to large enterprises,  I want to share my findings about data sacks. Having used a range of them, they will either make your company flourish or make your company fail.
