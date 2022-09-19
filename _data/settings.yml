@@ -40,8 +40,8 @@ hero:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Blog & Resources
-  blog__description: Find out how to set up a successful blog or how to make yours even better!
+  blog__title: Our Data Blog
+  blog__description: Find out how to make your data stack work for you!
 
 
 #-------------------------------
