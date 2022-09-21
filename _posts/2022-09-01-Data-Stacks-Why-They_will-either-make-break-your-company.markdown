@@ -51,7 +51,7 @@ Data Stack that is built to scale to meet the demands of large data volumes with
 * **Technologies Used** - A lot of them! Resources are needed that are unicorns, experienced and expensive. You will need an experienced Full Stack Engineer who has experience working in Data. 
 * **Cost** - Astronomical to build and not sustainable for small and medium businesses to run from both a resource and cloud cost perspective
 
-### Solution 2 - Built for for speed of Analytics with lower volumes of data
+### Solution 2 - Built for speed of Analytics with lower volumes of data
 
 This is a simple and elegant solution that consists of 3 items:
 
