@@ -4,25 +4,25 @@ title: Data Stacks - Why They Will Either Make or Break Your Company
 description: 
 date: 2022-09-01 15:01:35 +0000
 author: pratik
-image: '/images/02.jpg'
-image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
+image: '/images/pexels-sebastian-voortman-411207.jpg'
+# image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
 tags: [Data Stacks]
 ---
 
-Having worked in a range of companies from 20-person startups to large enterprises, I want to share my findings about data sacks. I have used those that will make your company flourish and those that will make your company fail!
+I have used Data Stacks that will make your company succeed and those that will make your company fail! Having worked in a range of companies from 20-person startups to large enterprises, I want to share my findings about data stacks. 
 
 ## How Can I Help You on Your Data Journey?
 
 I have worked with data stacks that fuel organisations growth 🚀 and others that can grind it to a halt! ⛔
 
-There are some tell-tale signs that the current data setup is not working for your organisation. If the below sounds familiar, then you could have a stack that isn't helping you:
+There are some tell-tale signs that the current data setup is not working for you. If the below sounds familiar, then you could have a stack that isn't helping you:
 
 * The time to engineer data from a simple source is long and complicated
 * Data is engineered, the task is marked as complete and people do not have access to the data
 * There are continuous issues with the stability of the data stack, errors, failed pipelines that are not resolved
 * The cost of the data stack is spiralling out of control as volumes increase
 
-If any of the above sound familiar, I have some ideas that may help further on. 
+If any of the above sound familiar, I have some ideas that may help. 
 <!-- Not sure if this needed - will review after -->
 
 <!-- I started my career as a Management Consultant and then moved to become a hands-on data driven individual where I have experience of working across the full spectrum of Data. From engineering pipelines, designing and modelling data warehouses and building organisational wide analytics
@@ -31,7 +31,7 @@ From my experience of working as a full stack data individual, I have learnt one
 
 I want to provide companies a framework to use when thinking of the *why* or *so what* for any development or platform building data related. -->
 
-An effective data solution ***must*** provide information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer it takes to provide an answer to any question that's raised. Simplicity reduces the time to conclude end-to-end analytics and is key for a data solution to provide ***Business Value***. 
+An effective data solution ***must*** provide information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer it takes to provide an answer to any question that's raised. Simplicity reduces the time to conclude end-to-end analytics and is key for a data solution to provide ***business value***. 
 
 > You do not need a complicated solution when your companies database can operate on a desktop computer! 
 
@@ -47,16 +47,16 @@ Over my career I have seen two types of data solutions.
 
 Data Stack that is built to scale to meet the demands of large data volumes with real-time data availability. It uses the best in class technologies with the latest tools.
 
-* **Who needs this?** - Companies that need real-time data at their fingertips for their customers. Think of Uber, Amazon, Airbnb etc (**i.e. very few**). Data for these organisations ***can not*** be run and processed on a desktop machine
+* **Who needs this?** - Companies that need real-time data at their fingertips for their customers. Think of Uber, Amazon, Airbnb etc (***i.e. very few***). Data for these organisations ***can not*** be run and processed on a desktop machine
 * **Technologies Used** - A lot of them! Resources are needed that are unicorns, experienced and expensive. You will need an experienced Full Stack Engineer who has experience working in Data. 
 * **Cost** - Astronomical to build and not sustainable for small and medium businesses to run from both a resource and cloud cost perspective
 
-### Solution 2 - Built for for speed of Analytics with lower volumes of data
+### Solution 2 - Built for speed of Analytics with lower volumes of data
 
 This is a simple and elegant solution that consists of 3 items:
 
 1. Cloud-based data pipeline orchestration tool
-2. Data Storage solution
+2. Data Storage Solution
 3. Data Reporting and Access Solution
 
 * **Who needs this?** - Majority of small and medium sized companies. Where time to an answer can make a huge impact on the companies growth. This is the optimum solution for any company where their data can exist on a desktop machine
