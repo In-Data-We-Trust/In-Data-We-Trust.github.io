@@ -4,7 +4,7 @@ title: Data Stacks - Why They Will Either Make or Break Your Company
 description: 
 date: 2022-09-01 15:01:35 +0000
 author: pratik
-image: '/images/pexels-sebastian-voortman-411207.jpg'
+image: '/images/pexels-pixabay-356043.jpg.jpg'
 # image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
 tags: [Data Stacks]
 ---
@@ -34,6 +34,8 @@ I want to provide companies a framework to use when thinking of the *why* or *so
 An effective data solution ***must*** provide information into the hands of people ***quickly*** to make decisions. The more complicated the data stack, the longer it takes to provide an answer to any question that's raised. Simplicity reduces the time to conclude end-to-end analytics and is key for a data solution to provide ***business value***. 
 
 > You do not need a complicated solution when your companies database can operate on a desktop computer! 
+
+![Simple]({{site.baseurl}}/success-2081168.jpg){:loading="lazy"}
 
 <!-- Trust me, you do not want your huge cost to be used to provide resources a great learning opportunity and not much value to your organisation! -->
 
