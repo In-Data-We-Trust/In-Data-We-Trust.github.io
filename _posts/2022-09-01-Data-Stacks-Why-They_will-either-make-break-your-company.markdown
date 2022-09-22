@@ -35,7 +35,7 @@ An effective data solution ***must*** provide information into the hands of peop
 
 > You do not need a complicated solution when your companies database can operate on a desktop computer! 
 
-![Simple]({{site.baseurl}}/success-2081168.jpg){:loading="lazy"}
+![Simple]({{site.baseurl}}/images/success-2081168.jpg){:loading="lazy"}
 
 <!-- Trust me, you do not want your huge cost to be used to provide resources a great learning opportunity and not much value to your organisation! -->
 
