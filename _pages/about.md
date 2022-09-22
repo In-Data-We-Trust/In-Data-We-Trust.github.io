@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Hey! In Data We Trust uses simple data solutions to enable organisations to grow. We love working with data because we've seen first hand how it can transform organisations. 
+description: Hey! In Data We Trust uses simple data solutions to enable organisations to grow. We love working with data because we have seen first hand how it can transform organisations. 
 permalink: /about/
 # image: '/images/graphs.png'
 # image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
@@ -15,9 +15,9 @@ permalink: /about/
 
 ## Our Mission
 
-To help organisations ***trust*** their data, become data driven and use this to grow 🚀
+**To help organisations ***trust*** their data, become data driven and use this to grow** 🚀
 
-Data stacks and solutions can easily become ***complicated*** and time consuming to build new data feeds. We guard against this pitfall by having a principle of doing the exact opposite. 
+Building new data stacks and solutions can easily become ***complicated*** and time consuming. We guard against this pitfall by having a principle of doing the exact opposite. 
 
 > Simplicity beats complexity.
 
@@ -25,13 +25,17 @@ Data stacks and solutions can easily become ***complicated*** and time consuming
 
 ## How to Make Your Data Stack Help You?
 
-Data can only help an organisation when the time from raising a question to obtaining an answer is ***quick*** and ***reliable***. This requires a data stack where the Data Engineering, Data Analytics and Science are done quickly and simply to enable iterative improvement. This will encourage each sub area of your Data Team to understand the other's, which will improve overall efficiency to find an answer.
+Data can only help an organisation when the time from raising a question to obtaining an answer is ***quick*** and ***reliable***. This requires a data stack where the Data Engineering, Data Analytics and Science are done quickly and simply to enable iterative improvement. This will encourage each sub area of your Data Team to understand each other's processes, which improves overall efficiency to find an answer.
 
-Being able to do this quickly, will mean your data solution can't process trillions of rows. Which leads us onto our next catchphrase:
+Being able to do this quickly, will mean your data solution can not process trillions of rows. Which leads us onto our next catchphrase:
 
 > Build the data solution you need ***today***, not the one you need in two years time. 
 
-Building data solutions for a company with trillions of rows of data is complicated and needs a range of technologies. These cost a lot of money to build and maintain. It doesn't let you quickly Engineer and Analyse. When a company has small data volumes, the speed at which it an Engineer and Analyse, is much more important. With speed you can begin to experiment and understand your product in more detail leading to better rewards and happier customers. This approach needs data to fuel it but will drive your business growth!
+Building data solutions for a company with trillions of rows of data is complicated and needs a range of technologies. These cost a lot of money to build and maintain. It does not let you quickly engineer and analyse. When a company has small data volumes, the speed at which person can Engineer and Analyse, is much more important. With speed you can begin to experiment and understand your product in more detail leading to better rewards and happier customers. This approach needs data to fuel which will drive your business to growth!
+
+With larger companies, comes excessive amounts of data which need hyper efficient and therefore need a hyper complex solution to handle the data. With a smaller to medium sized company, this is not the case for which you don't need.
+
+<!-- update the above paragraph to one that is better -->
 
 ![DataGrowth]({{site.baseurl}}/images/Experimentation_and_data_impact.jpg){:loading="lazy"}
 <!-- *Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)* -->
