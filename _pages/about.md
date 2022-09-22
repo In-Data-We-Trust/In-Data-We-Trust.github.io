@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Our Mission
 
-**To help organisations ***trust*** their data, become data driven and use this to grow** 🚀
+**To help organisations *trust* their data, become data driven and use this to grow** 🚀
 
 Building new data stacks and solutions can easily become ***complicated*** and time consuming. We guard against this pitfall by having a principle of doing the exact opposite. 
 
