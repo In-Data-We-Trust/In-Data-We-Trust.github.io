@@ -4,7 +4,7 @@ title: Data Stacks - Why They Will Either Make or Break Your Company
 description: 
 date: 2022-09-01 15:01:35 +0000
 author: pratik
-image: '/images/pexels-pixabay-356043.jpg.jpg'
+image: '/images/pexels-pixabay-356043.jpg'
 # image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
 tags: [Data Stacks]
 ---
