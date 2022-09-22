@@ -39,7 +39,7 @@ An effective data solution ***must*** provide information into the hands of peop
 
 <!-- Trust me, you do not want your huge cost to be used to provide resources a great learning opportunity and not much value to your organisation! -->
 
-I have seen various organisations build complicated solutions. Which at the time were not required when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
+I have seen various organisations build complicated solutions, which at the time were not required when compared against their data volumes and business maturity. This design overkill prevents the data stack providing the needed analytics at speed and makes it a hugely costly exercise. 
 
 ## What Solution Should You Use?
 
