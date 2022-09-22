@@ -56,6 +56,9 @@ With over 10 years of working across the data space in numerous roles (Business 
 
 Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to discuss how we can help solve any data challenges you may have!
 
+![Contact]({{site.baseurl}}/images/contact-us-image.jpg){:loading="lazy"}
+
+
 <!-- > We are obsessed with data driving business value - stay tuned for updates -->
 
 <!-- 
