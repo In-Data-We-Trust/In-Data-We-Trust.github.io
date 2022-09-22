@@ -78,8 +78,8 @@ footer__menu__settings:
       # url: '/contact/'
     - title: 'Authors'
       url: '/authors/'
-    - title: 'Elements'
-      url: '/elements/'
+    # - title: 'Elements'
+      # url: '/elements/'
 
 
 # Social Links
