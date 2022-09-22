@@ -7,11 +7,7 @@ permalink: /about/
 # image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
 
-<!-- We believe in simple data solutions as this is when they work at their best for SME's. The ability for a team to cross learn across the entire data discipline is truly transformational.  -->
-
 ![Simple]({{site.baseurl}}/images/graphs_top_line.png){:loading="lazy"}
-
-
 
 ## Our Mission
 
@@ -31,13 +27,9 @@ Being able to do this quickly, will mean your data solution can not process tril
 
 > Build the data solution you need ***today***, not the one you need in two years time. 
 
-Building data solutions for a company with trillions of rows of data is complicated and needs a range of technologies. These cost a lot of money to build and maintain. It does not let you quickly engineer and analyse. When a company has small data volumes, the speed at which person can Engineer and Analyse, is much more important. With speed you can begin to experiment and understand your product in more detail leading to better rewards and happier customers. This approach needs data to fuel which will drive your business to growth!
+Building data solutions for a large company with huge volumes of data is complicated and costly. They cost a lot of money to build and maintain. These types of solutions do not let the data team quickly engineer and analyse information. When a company has small data volumes, the speed at which the team can engineer and analyse is much more important. With speed, you can begin to experiment and understand how customers are using your product. Which will help drive the strategy, prioritise the roadmap and make your business grow!
 
-With larger companies, comes excessive amounts of data which need hyper efficient and therefore need a hyper complex solution to handle the data. With a smaller to medium sized company, this is not the case for which you don't need.
-
-<!-- update the above paragraph to one that is better -->
-
-![DataGrowth]({{site.baseurl}}/images/Experimentation_and_data_impact.jpg){:loading="lazy"}
+<!-- ![DataGrowth]({{site.baseurl}}/images/Experimentation_and_data_impact.jpg){:loading="lazy"} -->
 <!-- *Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)* -->
 
 ***
@@ -50,7 +42,7 @@ We can help your organisation across a range of tasks for data across the compan
 
 We have both an AWS stack and an Azure stack that we have used first-hand and recommend. It is a simple stack that is infinitely better than a complicated solution at this stage of the company. 
 
-With our recommended data stacks, they will let any curious Analyst or Scientist learn the Engineering aspect of Data. This can begin to unlock powerful analytics for your organisation! They can discover a new data source, table or API, make the data available to themselves. Which allows them to provide an answer, receive feedback and iterate as required.
+With our recommended data stacks, they will let any curious Analyst or Scientist learn the engineering aspect of data. This can begin to unlock powerful analytics for your organisation! They can discover a new data source and make this available to themselves to analyse. Which allows them to provide an answer ***quickly***, receive feedback and iterate without having an Engineering bottleneck.
 
 ### We Already Have a Data-Stack
 
