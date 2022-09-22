@@ -27,7 +27,7 @@ Being able to do this quickly, will mean your data solution can not process tril
 
 > Build the data solution you need ***today***, not the one you need in two years time. 
 
-Building data solutions for a large company with huge volumes of data is complicated and costly. They cost a lot of money to build and maintain. These types of solutions do not let the data team quickly engineer and analyse information. When a company has small data volumes, the speed at which the team can engineer and analyse is much more important. With speed, you can begin to experiment and understand how customers are using your product. Which will help drive the strategy, prioritise the roadmap and make your business grow!
+Building data solutions for large volumes of data is complicated, costly to build and expensive to maintain. They do not let the data team quickly engineer and analyse information will can create a bottleneck to information. When a company has small data volumes, the speed at which the team can engineer and analyse is much more important. With speed, you can begin to experiment and understand how customers are using your product. Which will help drive the strategy, prioritise the roadmap and make your business grow!
 
 <!-- ![DataGrowth]({{site.baseurl}}/images/Experimentation_and_data_impact.jpg){:loading="lazy"} -->
 <!-- *Photo by [Harley Davidson](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)* -->
@@ -101,5 +101,3 @@ Globally incubate standards compliant channels before scalable benefits. Quickly
 Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
 Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes. -->
-
-***
