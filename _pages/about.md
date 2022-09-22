@@ -50,7 +50,7 @@ We can help your organisation across a range of tasks for data across the compan
 
 We have both an AWS stack and an Azure stack that we have used first-hand and recommend. It is a simple stack that is infinitely better than a complicated solution at this stage of the company. 
 
-With our recommended data stacks, they will let any curious Analyst or Scientist learn the Engineering aspect of Data. This can begin to unlock some powerful analytics for your organisation! They can discover a new data source, table or API and make the data available to themselves. Provide an answer, receive feedback and iterate as required.
+With our recommended data stacks, they will let any curious Analyst or Scientist learn the Engineering aspect of Data. This can begin to unlock powerful analytics for your organisation! They can discover a new data source, table or API, make the data available to themselves. Which allows them to provide an answer, receive feedback and iterate as required.
 
 ### We Already Have a Data-Stack
 
