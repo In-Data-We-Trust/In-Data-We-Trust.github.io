@@ -8,8 +8,8 @@ image: '/images/01-2.jpg'
 {% include blog.html %}
 
 {% for p in pages %}
-{% if p.title == 'About' %}
-{{p.content}}
+{% if p.title == 'about' %}
+{{% include p.content %}}
 {% endif %}
 {% endfor %}
 
