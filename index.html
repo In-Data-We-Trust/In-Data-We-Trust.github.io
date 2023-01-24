@@ -7,11 +7,7 @@ image: '/images/01-2.jpg'
 
 {% include blog.html %}
 
-{% for p in pages %}
-{% if p.title == 'About' %}
-{{% include p.content %}}
-{% endif %}
-{% endfor %}
+{{ include.about.md | markdownify }}
 
 {% include pagination.html %}
 
