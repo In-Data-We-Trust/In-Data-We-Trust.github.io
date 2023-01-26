@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<!-- begin page -->
+<div class="container animate">
+
+  <article class="page">
+    <div class="page__content">
+      {{ content }}
+    </div>
+  </article>
+
+</div>
+<!-- end page -->
+
+{% if page.name == '404.html' %}
+<!-- begin recent posts -->
+<div class="recent-posts animate">
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts limit:3 %}
+        {% include article.html %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- end recent posts -->
+{% endif %}
