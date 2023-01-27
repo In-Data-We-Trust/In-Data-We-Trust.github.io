@@ -7,7 +7,7 @@ image: '/images/01-2.jpg'
 
 {% include blog.html %}
 
-{% capture my_include %}{% include_relative _pages/home_content.md %}{% endcapture %}
+{% capture my_include %}{% include_relative _pages/home.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 {% include pagination.html %}
