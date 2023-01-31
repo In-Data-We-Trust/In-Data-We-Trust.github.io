@@ -34,7 +34,11 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi! We are a Data Consultancy that focuses on simple, reliable and trasparrent solutions. We help you trust and understand your data!
+  hero__title: |
+    Simple, reliable, usable data you can understand and trust. 
+    
+    It’s not a lot to ask from your data solution, but if you’re not getting it, we need to talk. 
+
 
 
 #-------------------------------
