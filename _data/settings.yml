@@ -34,7 +34,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: >
+  hero__title: |+
     Simple, reliable, usable data you can understand and trust. 
     
     It’s not a lot to ask from your data solution, but if you’re not getting it, we need to talk. 
