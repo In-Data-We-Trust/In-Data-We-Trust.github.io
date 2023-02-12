@@ -46,4 +46,4 @@ If you need a more extensive update or reconfiguration, we can guide you through
 
 # It’s what every company needs, and what we deliver. 
 
-Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> to arrange a call to discuss your data challenge.
+Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk </a> or <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/pratik-idwt/30min'});return false;">arrange a call</a> <!-- Calendly link widget end --> to discuss your data challenge.
