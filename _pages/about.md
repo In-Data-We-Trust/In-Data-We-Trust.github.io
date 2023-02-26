@@ -3,6 +3,7 @@ layout: page
 title: A bit about us
 description: Hello, I’m Pratik Patel, founder of In Data We Trust and a true, unembarrassed data geek. I love solving problems and making the complex simple, building and improving data platforms to deliver faster, more usable analytics, helping companies to access and use the data they already have. <br /> <br /> With more than 10 years of experience working across the data space in roles that included Business Analyst, Data Engineer, Data Analyst, Product Owner and Strategic Adviser, I’ve accumulated a wealth of experience, and with my team, have numerous ways we can help you.
 permalink: /about/
+image: '/images/115.JPG'
 ---
 
 ## Our Mission
