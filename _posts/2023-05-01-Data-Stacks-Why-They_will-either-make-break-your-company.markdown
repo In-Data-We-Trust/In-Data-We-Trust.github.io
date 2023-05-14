@@ -93,3 +93,9 @@ Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk 
 ## Coming up
 
 Look out for my next blog posts, where I’ll be taking you through my recommended data stacks for Azure and AWS. Stay tuned...
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/pratik-idwt/30min', text: 'Arrange a call', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
