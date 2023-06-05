@@ -1,0 +1,11 @@
+// This page reuses the authors page styling for the feature list, and requires
+// a couple of overrides to accommodate the extra copy alongside it.
+
+.how-we-work {
+    .page-head {
+        margin-bottom: 80px;
+    }
+    .authors__inner {
+        margin-bottom: 80px;
+    }
+}
