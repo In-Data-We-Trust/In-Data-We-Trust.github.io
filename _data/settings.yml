@@ -21,14 +21,14 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+    - title: 'How We Work'
+      url: '/how-we-work/'
     - title: 'Pages'
       submenu:
       - url: '/authors/'
         title: 'Authors'
       # - url: '/elements/'
       # title: 'Elements'
-      - title: 'How We Work'
-        url: '/how-we-work/'
     - title: 'Contact'
       url: '/contact/'
 
