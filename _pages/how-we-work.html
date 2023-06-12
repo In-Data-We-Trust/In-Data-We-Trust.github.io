@@ -1,0 +1,58 @@
+---
+layout: default
+title: How We Work
+permalink: /how-we-work/
+---
+
+<!-- begin authors -->
+<section class="authors how-we-work">
+
+  <div class="container">
+    <div class="page-head">
+      <div class="page__info">
+        <h1 class="page__title">How we unlock your data</h1>
+        <p class="page__description">Simplicity is everything. Complexity only leads to confusion and future problems.</p>
+        <p class="page__description">Our goal is always to help you drive your business forward and deliver better customer service by giving you the simplest, most usable, reliable, easy-to-access data solution possible.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="authors__inner animate">
+    <div class="container">
+      <div class="row">
+        {% for item in site.data.how-we-work %}
+        <div class="col col-4 col-d-6 col-t-12">
+          <div class="authors__info">
+            <span class="authors__image"><img class="lazy" data-src="{{ item.image }}" alt=""></span>
+            <h2 class="authors__name">{{ item.title }}</h2>
+            <p class="authors__description">{{ item.content }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="page">
+      <h2>How can we help?</h2>
+      <p>If you’d like to know anything more about what we do, how we do it or who we’ve done it for, then please get in touch. We’d be happy to tell you more about ourselves, and more importantly, find out more about you and your challenge or opportunity. </p>
+      <blockquote>
+        <p>Pratik keeps things simple and to the point, he never looks to overcomplicate.</p>
+        <p><cite>Nick Baker, CCO, Allica Bank and NED, NACFB </cite></p>
+      </blockquote>
+      <blockquote>
+        <p>Pratik is a brilliant data scientist, dedicated team lead and excellent communicator. Highly recommend working with him if you get the chance.</p>
+        <p><cite>Nelson Correia, Principal Technical Consultant, Nomo fintech and CTO, DWYL</cite></p>
+      </blockquote>
+      <blockquote>
+        <p>Pratik looks to understand the business context in which he operates and has a very strong record of delivery.</p>
+        <p><cite>Tim Davies, Programme Manager, PCF Bank and Allica Bank</cite></p>
+      </blockquote>
+    </div>
+  </div>
+</section>
+<!-- end authors -->
+
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/pratik-idwt/30min', text: 'Arrange a call', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
