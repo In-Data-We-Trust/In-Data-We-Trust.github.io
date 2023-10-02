@@ -27,8 +27,10 @@ menu__settings:
       submenu:
       - url: '/authors/'
         title: 'Authors'
-      # - url: '/elements/'
-      # title: 'Elements'
+    - title: 'Case Studies'
+      submenu:
+      - url: '/case-studies/build-a-bank/'
+        title: 'Building a Bank'        
     - title: 'Contact'
       url: '/contact/'
 
