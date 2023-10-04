@@ -31,6 +31,8 @@ menu__settings:
       submenu:
       - url: '/case-studies/build-a-bank/'
         title: 'Building a Bank'        
+      - url: '/case-studies/simplifying-a-lending-workflow/'
+        title: 'Simplifying a fintech bank’s lending workflow'        
     - title: 'Contact'
       url: '/contact/'
 

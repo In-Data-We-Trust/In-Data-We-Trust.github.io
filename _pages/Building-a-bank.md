@@ -11,7 +11,7 @@ A difficult time for any new bank, made all the more complicated by the licence 
 
 ## Building a bank to fill a gap in the UK market  
 
-The driving force of the British economy comes from SMEs – established small and medium-sized enterprises with 10-250 employees. The founders of a new fintech bank had noticed that SMEs were being left behind by the big banks. 
+The driving force of the British economy comes from SMEs – established small and medium-sized businesses with 10-250 employees. The founders of a new fintech bank had noticed that SMEs were being left behind by the big banks. 
 
 With this in mind, they were building a fintech challenger bank specifically to fill this gap and serve this vital part of the UK economy. 
 
@@ -103,9 +103,9 @@ The bank hit the ground running, quickly moving ahead with its growth plans, add
 
 However, fresh challenges lay just around the corner for this new fintech challenger bank. In March 2020, the world faced unprecedented difficulties and uncertainty as the Covid-19 pandemic took hold, and the country was placed into the first of several lockdowns.
 
-It would soon be time for the bank to approach Pratik again, but more about this in our next case study, Redesigning a bank’s lending workflow.  title TBC <add link to case study when loaded>
+It would soon be time for the bank to approach Pratik again, but more about this in our next case study, [Simplifying a fintech bank’s lending workflow](https://www.indatawetrust.co.uk//case-studies/simplifying-a-lending-workflow/)
 
-**If you’d like to talk to Pratik or the team about building a bank, gaining regulatory approval or simplifying and improving your bank’s data management systems and processes,** <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/pratik-idwt/30min'});return false;">please book a call</a> <!-- Calendly link widget end --> 
+**If you’d like to talk to Pratik or the team about building a bank, gaining regulatory approval or simplifying and improving your bank’s data management systems and processes, please** <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/pratik-idwt/30min'});return false;"> book a call</a> <!-- Calendly link widget end --> 
 
 
 <!-- Calendly badge widget begin -->
