@@ -1,12 +1,9 @@
-layout: page
-title: Case Study Building a Bank
-# description: Get in touch and let’s get your data working for you
-permalink: /case-studies/build-a-bank
 ---
-
-# How a data engineer helped to to build a new fintech challenger bank
-
-## The problem – building a new fintech challenger bank in a time of turmoil
+layout: page
+title: How a data engineer helped to build a new fintech challenger bank
+description: The problem – building a new fintech challenger bank in a time of turmoil
+permalink: /case-studies/build-a-bank/
+---
 
 A new fintech challenger bank is looking to gain regulatory approval and a UK banking licence for an immediate launch.
 
@@ -28,13 +25,11 @@ The bank already had a banking licence with restrictions, but the decision was t
 
 A team lead at the bank explains why they approached Pratik to help with the build:
 
-> Members of the executive team had worked with Pratik in previous banks. He was well known with a strong track record of delivery.
-
-> Pratik has the broad skill set that we were looking for, particularly across business analytics, as well as obviously from a data perspective.
-
-> It's critical [when building a bank] that you understand the business and the commerciality of what's required before you start going into any data engineering and analytics.
-<p><cite>Former Team Lead at Allica Bank</cite></p>
- 
+<blockquote>
+Members of the executive team had worked with Pratik in previous banks. He was well known with a strong track record of delivery. <br> <br>
+Pratik has the broad skill set that we were looking for, particularly across business analytics, as well as obviously from a data perspective. <br> <br>
+It's critical that you understand the business and the commerciality of what's required before you start going into any data engineering and analytics. <br> <p><cite>Former Team Lead</cite></p>
+</blockquote>
 
 Pratik joined the small in-house team at the start of the process and immediately got to work helping to build the bank and scale the data engineering activity.
 
@@ -44,26 +39,31 @@ When building a bank from scratch, there is no blueprint to work from, you just 
 
 Pratik was asked to look at both the lending and deposit sides of the bank, with lending for the launch stage being just mortgages. He explains how they set about this: 
 
-> We began by focussing on the processes and data interfaces across each area of the bank: operations, finance, underwriting, broker portal and customer online banking. As part of building the bank’s capability, and the critical regulatory reporting, several different system feeds were connected.
-<p><cite>Pratik Patel</cite></p>
+<blockquote>
+We began by focussing on the processes and data interfaces across each area of the bank: operations, finance, underwriting, broker portal and customer online banking. As part of building the bank’s capability, and the critical regulatory reporting, several different system feeds were connected.
+</blockquote>
 
 Working closely with the team lead, in-house engineers and external vendors, Pratik then started building the initial MVP (minimum viable product) solution to take the bank to market. 
 
 This involved ensuring the various systems and data feeds were connected, any defects resolved and any necessary changes made to ensure the technology performed as it should, all while documenting the processes in readiness for regulatory approval. The team lead notes:
 
-> Pratik was instrumental in our regulatory reporting. This was achieved through engaging vendors and third parties who were supporting us in that build, managing them and the project milestones being delivered.
-<p><cite>Former Team Lead at Allica Bank</cite></p>
+<blockquote>
+Pratik was instrumental in our regulatory reporting. This was achieved through engaging vendors and third parties who were supporting us in that build, managing them and the project milestones being delivered.
+<p><cite>Former Team Lead</cite></p>
+</blockquote>
 
 ## Shaping how the bank will operate  
 
 In addition, Pratik ensured that the data schema was correct and understood across the bank. This meant gaining a greater understanding of the core banking system, CRM, financial system, broker portal and workflows to ensure the information was correct and the outputs worked.  
 
-> Pratik was central right from the start with helping to shape the way the bank was going to operate.
-<p><cite>Former Team Lead at Allica Bank</cite></p>
+<blockquote>
+Pratik was central right from the start with helping to shape the way the bank was going to operate.
+<p><cite>Former Team Lead</cite></p>
+</blockquote>
 
-Pratik explains further:
+*Pratik explains further:*
 
-> When building a bank, it’s vital that all the necessary systems and processes are connected correctly, so that you build a bank that stands up to regulatory scrutiny and customer expectations. <br> <br> You need many systems, across different technologies, stitched together to create and enable the bank’s operations, finance, sales, workflow, regulatory reporting and internal analytics. All of which need to function to a standard that passes the requirements necessary to be regulated and create the information for the bank to learn fuelled by a data warehouse focused on business needs. <br> <br>
+> When building a bank, it’s vital that all the necessary systems and processes are connected correctly, so that you build a bank that stands up to regulatory scrutiny and customer expectations. <br> <br> You need many systems, across different technologies, stitched together to create and enable the bank’s operations, finance, sales, workflow, regulatory reporting and internal analytics. All of which need to function to a standard that passes the requirements necessary to be regulated and create the information for the bank to learn fuelled by a data warehouse focused on business outcomes. <br> <br>
 > The reason it’s such a challenge, and so highly scrutinised, is that if a licenced bank fails, the regulator is liable for up to £85,000 for each customer. Which means there is a lot of money at risk.
 
 ## Upskilling a banking platform vendor
@@ -74,7 +74,7 @@ It’s worth noting that just because something works in Europe, it doesn’t me
 
 With a sizeable investment already made in the platform, it had to succeed. Pratik was not only the data analyst in the team, he was also working with the banking platform vendor’s technical team to upskill them to ensure the platform met the UK regulatory requirements. 
 
-## No second chances, the banking framework had to be right first time
+## The banking framework had to be right first time
 
 There was one more challenge to be factored in. This was a resubmission – the bank had earlier given its licence with restrictions back to the regulator. 
 
@@ -86,16 +86,16 @@ Taking on board the regulator’s feedback, Pratik made sure he fully understood
 
 By properly understanding the system’s challenges across the entire bank, Pratik was able to summarise what was wrong, and then work with the relevant vendor to deliver the changes needed, answering any questions along the way.
 
-> The reporting had to be absolutely bob on. We did it collectively, but Pratik was very much leading that line and understanding all of the data that was required, why it was needed, what the rules were, etc, etc. <br> <br> He was constantly engaging with stakeholders to ask the most important question, which is ‘Why?’. Why? Why? Why? Why?” 
+> The reporting had to be absolutely spot on. We did it collectively, but Pratik was very much leading that line and understanding all of the data that was required, why it was needed, what the rules were, etc, etc. <br> <br> He was constantly engaging with stakeholders to ask the most important question, which is ‘Why?’. Why? Why? Why? Why?” 
 
 Each fix could then be tested to confirm it worked. Naturally there was a lot to do, prioritising the work was critical. Again, the team lead has only praise for Pratik:
 
-“With Pratik’s support, we were able to go out to the regulators and proactively keep pushing them. We were in the middle of Brexit, yet it was still very much a case of ‘We're getting ready. We've got this sorted. We've just achieved this milestone.’ And that's with Pratik's involvement, driving the delivery through and beyond that into live.<br><br> 
+> With Pratik’s support, we were able to go out to the regulators and proactively keep pushing them. We were in the middle of Brexit, yet it was still very much a case of ‘We're getting ready. We've got this sorted. We've just achieved this milestone.’ And that's with Pratik's involvement, driving the delivery through and beyond that into live.<br><br> 
 People underestimate the power of collaboration and Pratik is great at it.”
 
 ## The banking licence application is submitted
 
-The bank met the application deadline and everyone was thrilled to learn the application was approved! A month after being granted a UK banking licence, the bank successfully launched to market with business mortgages. The team couldn’t have been happier, with the team lead commenting:
+The bank met the application deadline and everyone was thrilled to learn the application was approved! A month after being granted a UK banking licence, the bank successfully launched to market with commercial mortgages. The team couldn’t have been happier, with the team lead commenting:
 
 > When it comes to supporting the build and launch of the bank, both from a business process perspective and a regulatory reporting perspective, Pratik was absolutely pivotal.
 
