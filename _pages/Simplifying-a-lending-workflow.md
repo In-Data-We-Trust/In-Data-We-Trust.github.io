@@ -29,7 +29,7 @@ Managers couldn't see how many offer letters needed to be issued or how many KYC
 
 Unable to triage the applications and enquiries, teams were becoming reactive rather than proactive. 
 
-Aware of the risk to the SLA (standard level agreement) in speed of turning around mortgage applications, and with it the bank’s hard-earned reputation for excellent customer service, something needed to be done. It was time to get Pratik back. 
+Aware of the risk to the SLA (service level agreement) in speed of turning around mortgage applications, and with it the bank’s hard-earned reputation for excellent customer service, something needed to be done. It was time to get Pratik back. 
 
 ## Why Pratik?
 
