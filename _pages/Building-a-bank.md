@@ -103,7 +103,7 @@ The bank hit the ground running, quickly moving ahead with its growth plans, add
 
 However, fresh challenges lay just around the corner for this new fintech challenger bank. In March 2020, the world faced unprecedented difficulties and uncertainty as the Covid-19 pandemic took hold, and the country was placed into the first of several lockdowns.
 
-It would soon be time for the bank to approach Pratik again, but more about this in our next case study, [Simplifying a fintech bank’s lending workflow](https://www.indatawetrust.co.uk//case-studies/simplifying-a-lending-workflow/)
+It would soon be time for the bank to approach Pratik again, but more about this in our next case study, [Simplifying a fintech bank’s lending workflow](https://www.indatawetrust.co.uk/case-studies/simplifying-a-lending-workflow/)
 
 **If you’d like to talk to Pratik or the team about building a bank, gaining regulatory approval or simplifying and improving your bank’s data management systems and processes, please** <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/pratik-idwt/30min'});return false;"> book a call</a> <!-- Calendly link widget end --> 
 
