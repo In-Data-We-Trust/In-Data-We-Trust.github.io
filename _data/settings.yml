@@ -27,8 +27,12 @@ menu__settings:
       submenu:
       - url: '/authors/'
         title: 'Authors'
-      # - url: '/elements/'
-      # title: 'Elements'
+    - title: 'Case Studies'
+      submenu:
+      - url: '/case-studies/build-a-bank/'
+        title: 'Building a Bank'        
+      - url: '/case-studies/simplifying-a-lending-workflow/'
+        title: 'Simplifying a fintech bank’s lending workflow'        
     - title: 'Contact'
       url: '/contact/'
 
@@ -39,7 +43,7 @@ hero:
   hero__title: 
     Simple, reliable, usable data you can understand and trust.<br /> <br /> 
       
-    It’s not a lot to ask from your data solution, but if you’re not getting it, we need to talk. 
+    It’s not a lot to ask from your data, but if you’re not getting it, we need to talk. 
 
 
 

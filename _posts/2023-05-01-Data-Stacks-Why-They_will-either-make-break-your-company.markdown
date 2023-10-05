@@ -53,7 +53,7 @@ Data solutions fall into two main camps.
 This is a data stack that has been built to scale to meet the demands of what are usually large companies with equally large data volumes that have real-time data availability demands. It uses the best-in-class technology with the latest tools.
 
 * **Who needs this?** Very few huge companies that need real-time data at their fingertips for their customers. Think Uber, Amazon and Airbnb. Companies of this type and size are few and far between. Data for these organisations cannot be run and processed on a desktop computer. 
-* **Technologies Used** - Their data solutions require a lot of different technologies. The resources needed that are as rare as unicorns , experienced and expensive. You’ll need an experienced Full Stack Engineer who has experience working in Data.
+* **Technologies Used** - Their data solutions require a lot of different technologies. The resources needed that are as rare as unicorns, experienced and expensive. You’ll need an experienced Full Stack Engineer who has experience working in Data.
 * **Cost** – Astronomical to build and not sustainable for small and medium businesses to run, from both a resource and cloud-cost perspective.
 
 ### Solution 2 - Built for speed of analytics with lower volumes of data

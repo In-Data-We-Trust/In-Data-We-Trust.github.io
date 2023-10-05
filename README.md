@@ -1,4 +1,16 @@
-# Dann – Multipurpose Jekyll Blog Theme
+# IDWT - Website
+
+The website for IDWT - a consultancy that is focused on data, technology and generating business value or outcomes. 
+
+The website used Jekyll templates hosted by github.
+
+## Tips on using the repo
+
+### Development
+
+When making local changes, use ``` docker-compose up``` to run locally. Once run, use the following URL to navigate to it http://host.docker.internal:4000/
+
+# Dann – Multipurpose Jekyll Blog Theme - Template Readme
 
 Dann is a multi-purpose, creative, and modern theme for Jekyll. The main features of the theme are full compatibility with Github Pages, featured post slider, video post support, multiple authors support, and high performance. This theme is perfectly suitable for blogging and personal website.
 
