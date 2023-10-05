@@ -73,7 +73,7 @@ To do this, they conduct a discovery exercise, which in this case enabled them t
 - Investigate how data is generated from every single action a user takes, and understand exactly where this information is stored.   
 
 Pratik notes:
-> This is where working in data becomes a bit like being a detective, with the addition of blending business analytics with engineering tools.
+> This is where working in data becomes a bit like being a detective, blending both business analysis with development tools.
 
 Working together, Pratik and the team lead interrogated the process, noting every step along the workflow, identifying the pinch-points to be fixed and opportunities for improvement. They made sure they were seeing what the teams were seeing – in this case a far from user-friendly spreadsheet that was cumbersome to use.
 

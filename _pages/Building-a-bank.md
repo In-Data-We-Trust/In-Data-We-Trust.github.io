@@ -28,7 +28,7 @@ A team lead at the bank explains why they approached Pratik to help with the bui
 <blockquote>
 Members of the executive team had worked with Pratik in previous banks. He was well known with a strong track record of delivery. <br> <br>
 Pratik has the broad skill set that we were looking for, particularly across business analytics, as well as obviously from a data perspective. <br> <br>
-It's critical that you understand the business and the commerciality of what's required before you start going into any data engineering and analytics. <br> <p><cite>Former Team Lead</cite></p>
+It's critical that you understand the business and the commerciality of what's required before you start going into any data engineering and analytics. <br> <p><cite>Team Lead</cite></p>
 </blockquote>
 
 Pratik joined the small in-house team at the start of the process and immediately got to work helping to build the bank and scale the data engineering activity.
@@ -49,7 +49,7 @@ This involved ensuring the various systems and data feeds were connected, any de
 
 <blockquote>
 Pratik was instrumental in our regulatory reporting. This was achieved through engaging vendors and third parties who were supporting us in that build, managing them and the project milestones being delivered.
-<p><cite>Former Team Lead</cite></p>
+<p><cite>Team Lead</cite></p>
 </blockquote>
 
 ## Shaping how the bank will operate  
@@ -58,7 +58,7 @@ In addition, Pratik ensured that the data schema was correct and understood acro
 
 <blockquote>
 Pratik was central right from the start with helping to shape the way the bank was going to operate.
-<p><cite>Former Team Lead</cite></p>
+<p><cite>Team Lead</cite></p>
 </blockquote>
 
 *Pratik explains further:*
