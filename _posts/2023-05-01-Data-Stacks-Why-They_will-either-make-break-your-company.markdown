@@ -92,7 +92,9 @@ Email <a href = "mailto: Pratik@indatawetrust.co.uk">Pratik@indatawetrust.co.uk 
 
 ## Coming up
 
-Look out for my next blog posts, where I’ll be taking you through my recommended data stacks for Azure and AWS. Stay tuned...
+Look out for my next blog posts, where I’ll be taking you through the skills you need to build our your data team.
+
+***
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
