@@ -38,6 +38,7 @@ To answer this, the data team will need to:
 
 To deliver meaningful business value from the data, the small team will need to understand the end-to-end process from customer application, through to KYC, KYB, underwriting and the remainder of the loan completion process. This can be a complicated process and one they may need support in navigating.
 
+
 ## Supporting the team 
 
 One option is to buddy the first few hires with a senior person within the business to work through their challenges, however there may be a capacity constraint if your business is rapidly growing with tight deadlines. Regardless, an investment will need to be made to ensure the team can deliver meaningful outcomes.
