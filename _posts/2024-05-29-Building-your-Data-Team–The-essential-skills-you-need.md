@@ -31,12 +31,12 @@ A typical initial ***data problem*** for an organisation with an application jou
 To answer this, the data team will need to:
 1. Understand the Business Process
 2. Understand the Architecture and back-end design of the system
-3. Understand The user journey that generates the data and the schema where data is stored
-4. Create a data pipeline in a scalable, sustainable way, reliable
+3. Understand the user journey that generates the data and the schema where data is stored
+4. Create a data pipeline in a scalable, sustainable, reliable way
 5. Model the data
 6. Make it available
 
-To deliver meaningful business value from the data, the small team will need to understand the end-to-end process from customer application, through to KYC, KYB, Underwriting and the remainder of the loan completion process. This can be a complicated process and one they may need support in navigating.
+To deliver meaningful business value from the data, the small team will need to understand the end-to-end process from customer application, through to KYC, KYB, underwriting and the remainder of the loan completion process. This can be a complicated process and one they may need support in navigating.
 
 ## Supporting the team 
 
