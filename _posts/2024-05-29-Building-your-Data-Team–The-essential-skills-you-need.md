@@ -9,7 +9,7 @@ image: '/images/team.jpg'
 tags: [Data Team]
 ---
 
-Establishing your first few team members for your data team requires careful consideration. They need to bring a range of skills to the table to influence your business and ensure you get value from the investment. Get this wrong, and you won’t be able to leverage your data when you need it, to drive your business goals.
+Establishing your first few team members for your data team requires careful consideration. They need to bring a range of skills to the table to influence your business and ensure you get value from the investment. Get this wrong, and you won’t be able to leverage your data when you need it.
 
 ## Navigating the organisation
 
